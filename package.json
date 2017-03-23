@@ -1,6 +1,11 @@
 {
-  "name": "test",
+  "name": "react-redux",
   "version": "0.1.0",
+  "files": [
+    "build"
+  ],
+  "author": "Anatolii Krasnoperov <krasnoperov@bystrobank.ru>",
+  "license": "MIT",
   "dependencies": {
     "array.prototype.find": "^2.0.3",
     "lodash": "^4.17.4",

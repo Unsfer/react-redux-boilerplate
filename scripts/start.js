@@ -278,7 +278,7 @@ function runDevServer(host, port, protocol) {
     console.log(chalk.cyan('Starting the development server...'));
     console.log();
 
-    // openBrowser(protocol + '://' + host + ':' + port + paths.servedPath);
+    openBrowser(protocol + '://' + host + ':' + port + paths.servedPath);
   });
 }
 
